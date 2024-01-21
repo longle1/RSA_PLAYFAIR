@@ -1,0 +1,24 @@
+E:\lập trình c#\antoanmang\antoanmang\bin\Debug\antoanmang.exe.config
+E:\lập trình c#\antoanmang\antoanmang\bin\Debug\antoanmang.exe
+E:\lập trình c#\antoanmang\antoanmang\bin\Debug\antoanmang.pdb
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.csproj.AssemblyReference.cache
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.csproj.SuggestedBindingRedirects.cache
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.Playfair.resources
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.Properties.Resources.resources
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.csproj.GenerateResource.cache
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.csproj.CoreCompileInputs.cache
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.exe
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.pdb
+E:\lập trình c#\antoanmang\antoanmang\obj\Debug\antoanmang.Interface.resources
+E:\Do An\Fairplay\antoanmang\bin\Debug\antoanmang.exe.config
+E:\Do An\Fairplay\antoanmang\bin\Debug\antoanmang.exe
+E:\Do An\Fairplay\antoanmang\bin\Debug\antoanmang.pdb
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.csproj.AssemblyReference.cache
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.csproj.SuggestedBindingRedirects.cache
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.Interface.resources
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.Playfair.resources
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.Properties.Resources.resources
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.csproj.GenerateResource.cache
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.csproj.CoreCompileInputs.cache
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.exe
+E:\Do An\Fairplay\antoanmang\obj\Debug\antoanmang.pdb
